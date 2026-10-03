@@ -3,10 +3,10 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using WeatherConsoleAPI.Application.Interfaces;
 using WeatherConsoleAPI.Application.Services;
+using WeatherConsoleAPI.Configuration;
+using WeatherConsoleAPI.InfrastructureApi;
+using WeatherConsoleAPI.Presentation;
 using WeatherConsoleClient.Application.Interfaces;
-using WeatherConsoleClient.Configuration;
-using WeatherConsoleClient.Infrastructure.Api;
-using WeatherConsoleClient.Presentation;
 
 internal class Program
 {

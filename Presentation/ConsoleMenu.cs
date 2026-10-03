@@ -1,7 +1,7 @@
 ﻿using WeatherConsoleAPI.Application.Interfaces;
 using WeatherConsoleClient.Application.DTOs;
 using WeatherConsoleClient.Application.Interfaces;
-namespace WeatherConsoleClient.Presentation;
+namespace WeatherConsoleAPI.Presentation;
 
 public class ConsoleMenu
 {

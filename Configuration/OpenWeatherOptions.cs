@@ -1,4 +1,4 @@
-﻿namespace WeatherConsoleClient.Configuration;
+﻿namespace WeatherConsoleAPI.Configuration;
 
 public class OpenWeatherOptions
 {

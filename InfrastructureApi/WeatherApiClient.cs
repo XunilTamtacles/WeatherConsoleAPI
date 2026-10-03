@@ -3,10 +3,10 @@ using System.Net.Http.Json;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using WeatherConsoleAPI.Application.Interfaces;
+using WeatherConsoleAPI.Configuration;
 using WeatherConsoleClient.Application.DTOs;
-using WeatherConsoleClient.Configuration;
 
-namespace WeatherConsoleClient.Infrastructure.Api;
+namespace WeatherConsoleAPI.InfrastructureApi;
 
 public class WeatherApiClient : IWeatherApiClient
 {
