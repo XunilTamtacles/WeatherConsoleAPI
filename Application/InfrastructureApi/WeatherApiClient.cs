@@ -2,8 +2,8 @@
 using System.Net.Http.Json;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using WeatherConsoleAPI.Application.Interfaces;
 using WeatherConsoleClient.Application.DTOs;
-using WeatherConsoleClient.Application.Interfaces;
 using WeatherConsoleClient.Configuration;
 
 namespace WeatherConsoleClient.Infrastructure.Api;

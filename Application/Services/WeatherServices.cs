@@ -1,7 +1,8 @@
-﻿using WeatherConsoleClient.Application.DTOs;
+﻿using WeatherConsoleAPI.Application.Interfaces;
+using WeatherConsoleClient.Application.DTOs;
 using WeatherConsoleClient.Application.Interfaces;
 
-namespace WeatherConsoleClient.Application.Services;
+namespace WeatherConsoleAPI.Application.Services;
 
 public class WeatherService : IWeatherServices
 {

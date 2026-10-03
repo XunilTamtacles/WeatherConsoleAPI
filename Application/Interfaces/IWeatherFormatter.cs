@@ -1,6 +1,6 @@
 ﻿using WeatherConsoleClient.Application.DTOs;
 
-namespace WeatherConsoleClient.Application.Interfaces;
+namespace WeatherConsoleAPI.Application.Interfaces;
 
 public interface IWeatherFormatter
 {

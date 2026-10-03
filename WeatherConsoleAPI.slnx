@@ -1,26 +1,3 @@
 <Solution>
-  <Folder Name="/Application/" />
-  <Folder Name="/Application/DTOs/">
-    <File Path="CurrentWeatherDto.cs" />
-    <File Path="CurrentWeatherMainDto.cs" />
-    <File Path="ForecastCityDto.cs" />
-    <File Path="ForecastCloudDto.cs" />
-    <File Path="ForecastDto.cs" />
-    <File Path="ForecastItemMain.cs" />
-    <File Path="ForecastMain.cs" />
-    <File Path="WeatherConditionDto.cs" />
-    <File Path="WindDto.cs" />
-  </Folder>
-  <Folder Name="/Application/InfrastructureApi/">
-    <File Path="WeatherApiClient.cs" />
-  </Folder>
-  <Folder Name="/Application/Interfaces/">
-    <File Path="IWeatherApiClient.cs" />
-    <File Path="IWeatherFormatter.cs" />
-    <File Path="IWeatherServices.cs" />
-  </Folder>
-  <Folder Name="/Application/Services/">
-    <File Path="WeatherServices.cs" />
-  </Folder>
   <Project Path="WeatherConsoleAPI.csproj" />
 </Solution>
